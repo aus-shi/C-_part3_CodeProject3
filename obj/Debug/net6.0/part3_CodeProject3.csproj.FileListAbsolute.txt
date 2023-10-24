@@ -1,0 +1,15 @@
+C:\Users\L\Desktop\aus_c#\part3_CodeProject3\bin\Debug\net6.0\part3_CodeProject3.exe
+C:\Users\L\Desktop\aus_c#\part3_CodeProject3\bin\Debug\net6.0\part3_CodeProject3.deps.json
+C:\Users\L\Desktop\aus_c#\part3_CodeProject3\bin\Debug\net6.0\part3_CodeProject3.runtimeconfig.json
+C:\Users\L\Desktop\aus_c#\part3_CodeProject3\bin\Debug\net6.0\part3_CodeProject3.dll
+C:\Users\L\Desktop\aus_c#\part3_CodeProject3\bin\Debug\net6.0\part3_CodeProject3.pdb
+C:\Users\L\Desktop\aus_c#\part3_CodeProject3\obj\Debug\net6.0\part3_CodeProject3.csproj.AssemblyReference.cache
+C:\Users\L\Desktop\aus_c#\part3_CodeProject3\obj\Debug\net6.0\part3_CodeProject3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L\Desktop\aus_c#\part3_CodeProject3\obj\Debug\net6.0\part3_CodeProject3.AssemblyInfoInputs.cache
+C:\Users\L\Desktop\aus_c#\part3_CodeProject3\obj\Debug\net6.0\part3_CodeProject3.AssemblyInfo.cs
+C:\Users\L\Desktop\aus_c#\part3_CodeProject3\obj\Debug\net6.0\part3_CodeProject3.csproj.CoreCompileInputs.cache
+C:\Users\L\Desktop\aus_c#\part3_CodeProject3\obj\Debug\net6.0\part3_CodeProject3.dll
+C:\Users\L\Desktop\aus_c#\part3_CodeProject3\obj\Debug\net6.0\refint\part3_CodeProject3.dll
+C:\Users\L\Desktop\aus_c#\part3_CodeProject3\obj\Debug\net6.0\part3_CodeProject3.pdb
+C:\Users\L\Desktop\aus_c#\part3_CodeProject3\obj\Debug\net6.0\part3_CodeProject3.genruntimeconfig.cache
+C:\Users\L\Desktop\aus_c#\part3_CodeProject3\obj\Debug\net6.0\ref\part3_CodeProject3.dll
